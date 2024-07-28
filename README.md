@@ -15,7 +15,7 @@ Uncertainty propagation concepts are included at each step of the analysis. Afte
 docker start -i my_python
 mkdir Particle_Discovery_Lab
 cd Particle_Discover_Lab
-git clone 
+git clone https://github.com/DanielaMerizalde/CMS-Workshop.git
 cd ..
 jupyter-lab --ip = 0.0.0.0 --no-browser
 ```
