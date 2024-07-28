@@ -9,6 +9,14 @@ Uncertainty propagation concepts are included at each step of the analysis. Afte
 ## **Get Ready**
 
 * Have the **my_python** container ready. The steps to install Docker and create this container were mentioned on the pre-exercises.
-* Git clone this repository inside the **my_python** container and ensure the following files have been created: **pollsf.py**, **MuonAnalysis.ipynb**, and **DoubleMuParked_100K.pkl**.
-## **
-
+  
+## **Excecute the following commands**
+```
+docker start -i my_python
+mkdir Particle_Discovery_Lab
+cd Particle_Discover_Lab
+git clone 
+cd ..
+jupyter-lab --ip = 0.0.0.0 --no-browser
+```
+Ensure that after clonning the repository the following files have been created: **pollsf.py**, **Particle_Discovery_Lab.ipynb**, and **DoubleMuParked_100K.pkl**. Open the link in the message on your browser.
