@@ -19,4 +19,4 @@ git clone https://github.com/DanielaMerizalde/CMS-Workshop.git
 cd ..
 jupyter-lab --ip = 0.0.0.0 --no-browser
 ```
-Ensure that after clonning the repository the following files have been created: **pollsf.py**, **Particle_Discovery_Lab.ipynb**, and **DoubleMuParked_100K.pkl**. Open the link in the message on your browser.
+After running the last command open the link in the message on your browser. Ensure that after clonning the repository the following files have been created: **pollsf.py**, **Particle_Discovery_Lab.ipynb**, and **DoubleMuParked_100K.pkl**. 
